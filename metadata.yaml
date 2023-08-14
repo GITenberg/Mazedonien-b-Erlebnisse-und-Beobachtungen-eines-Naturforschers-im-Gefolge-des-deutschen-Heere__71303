@@ -1,0 +1,28 @@
+_repo: Mazedonien-b-Erlebnisse-und-Beobachtungen-eines-Naturforschers-im-Gefolge-des-deutschen-Heere__71303
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doflein, Franz
+    gutenberg_agent_id: '56163'
+    url: http://www.gutenberg.org/2009/agents/56163
+description: ''
+gutenberg_issued: '2023-07-30'
+identifiers:
+  gutenberg: '71303'
+language: de
+pgterms:marc904: https://archive.org/details/mazedonienerlebn00dofl
+pgterms:marc905: 20180909010036doflein
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: Peter Becker, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aGermany :$bVerlag von Gustav Fischer, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mazedonien : $b Erlebnisse und Beobachtungen eines Naturforschers im Gefolge
+  des deutschen Heeres'
+url: http://www.gutenberg.org/ebooks/71303

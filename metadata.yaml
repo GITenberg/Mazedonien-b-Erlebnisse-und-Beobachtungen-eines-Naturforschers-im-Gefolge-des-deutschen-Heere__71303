@@ -1,11 +1,16 @@
 _repo: Mazedonien-b-Erlebnisse-und-Beobachtungen-eines-Naturforschers-im-Gefolge-des-deutschen-Heere__71303
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71303-h/images/cover.jpg
 creator:
   author:
     agent_name: Doflein, Franz
     gutenberg_agent_id: '56163'
     url: http://www.gutenberg.org/2009/agents/56163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71303#Mazedonien-b-Erlebnisse-und-Beobachtungen-eines-Naturforschers-im-Gefolge-des-deutschen-Heere_
 gutenberg_issued: '2023-07-30'
 identifiers:
   gutenberg: '71303'
